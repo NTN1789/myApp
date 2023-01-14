@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "josefin sans", sans-serif;
+}
+.hero {
+  height: 100vh;
+  height-width: 100%;
+  height-background-image: linear-gradient(rgba(0, 0, 0, 0.6));
+  height-background-repeat: no-repeat;
+  height-background-size: cover;
+  height-background-position: center;
+  padding-top: 40px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+color:orange {
+  transition: 0.3s;
+}
+
+button {
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-size: 15px;
+  transition: 0.4s;
+}/*# sourceMappingURL=styles.module.css.map */
